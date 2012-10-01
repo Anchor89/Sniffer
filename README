@@ -1,0 +1,13 @@
+NOTE:
+
+This is my project for a course in UCAS. Please do NOT paste these code on web!
+
+Description:
+
+This is a library that can parse Ethernet, ARP, IPv4, IGMP, ICMP, TCP, UDP protocol. Each protocol has a parser for it and all these parses are derived from ProtocolParserBase.
+
+Also there is a wrap for WinPcap to make WinPcap OO.
+
+IDE: Eclipse or VS2010
+
+Configure: Add WinPcap/include to include path and add wpcap.lib and ws2_32.lib to additional library
